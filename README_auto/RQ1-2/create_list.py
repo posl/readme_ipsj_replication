@@ -19,7 +19,7 @@ if(i == 0):
 #csv_file3 = open('data.csv','r',encoding='utf-8', errors="", newline="")
 
 elif(i == 1):
-    csv_file1 = open('dataset_combined_cp.csv','r',encoding='utf-8', errors="", newline="")
+    csv_file1 = open('dataset_combined.csv','r',encoding='utf-8', errors="", newline="")
     infile = csv.reader(csv_file1,delimiter=",", doublequote=True, lineterminator="\r\n", quotechar='"', skipinitialspace=True)
     csv_file2 = open('first_list.csv','w')
     outfile = csv.writer(csv_file2)
@@ -30,12 +30,12 @@ a = []
 fname = []
 f = []
 title = ['project name','project url','category','commits']
-name = ['https://github.com/xiaobai557/wechat']
+name = ['https://github.com/aasm/aasm']
 #name.append(linecache.getline('dataset_combined.csv', 1))
 head = []
 number = []
 list = []
-last_name = 'https://github.com/xiaobai557/wechat'
+last_name = 'https://github.com/aasm/aasm'
 now_file_id = 1
 rmlist =[]
 
@@ -110,6 +110,7 @@ for row in infile:
         now_file_id += 1
 
     if row[-1] != '-':
+        print("row[-1] =" + row[-1])
         number = int(row[-1])
         
         while number != 0:

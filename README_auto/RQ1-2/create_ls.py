@@ -23,8 +23,10 @@ if(i == 0):
 #csv_file3 = open('data.csv','r',encoding='utf-8', errors="", newline="")
 
 elif(i == 1):
+    #csv_file1 = open('dataset_combined_cp.csv','r',encoding='utf-8', errors="", newline="")
     csv_file1 = open('dataset_combined_cp.csv','r',encoding='utf-8', errors="", newline="")
     infile = csv.reader(csv_file1,delimiter=",", doublequote=True, lineterminator="\r\n", quotechar='"', skipinitialspace=True)
+    #csv_file3 = open('dataset_combined_cp.csv','r',encoding='utf-8', errors="", newline="")
     csv_file3 = open('dataset_combined_cp.csv','r',encoding='utf-8', errors="", newline="")
     infile2 = csv.reader(csv_file3,delimiter=",", doublequote=True, lineterminator="\r\n", quotechar='"', skipinitialspace=True)
     csv_file2 = open('first_list.csv','w')
@@ -106,15 +108,19 @@ list = []
 
 for line in infile2:
     if line[2] in rm_list:
+        print(line[2])
         continue
     
     if line[-1] != "-":
+        print("line[-1] =" + line[-1])
         number = int(line[-1])
         while number != 0:
             add =  number % 10
             if add not in head:
                 head.append(add)
             number = int((number-add)/10)
+        
+    
 
     #print('aaa')
     now_id = int(line[1])
@@ -144,6 +150,7 @@ for line in infile2:
 
         head.sort()
         list.append(head)
+        print(list)
 
         commit = linecache.getline('data.csv', now_id)
         c = commit.strip("\n")

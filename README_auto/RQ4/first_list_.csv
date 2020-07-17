@@ -1,0 +1,50 @@
+project name,project url,category,commits
+aasm-aasm,https://github.com/aasm/aasm,[],0,232,1330
+ActsAsParanoid-acts_as_paranoid,https://github.com/ActsAsParanoid/acts_as_paranoid,"[1, 3, 4, 6]",4,38,476
+anutron-mootools-core,https://github.com/anutron/mootools-core,[],0,21,3471
+beastaugh-tarski-utilities,https://github.com/beastaugh/tarski-utilities,[1],1,2,123
+bostonrb-bostonrb,https://github.com/bostonrb/bostonrb,"[2, 3]",2,14,923
+bruce-keyword_search,https://github.com/bruce/keyword_search,"[1, 3, 4, 5]",4,1,56
+chuyeow-facon,https://github.com/chuyeow/facon,"[1, 2, 3, 5, 6, 7]",6,8,64
+ci-reporter-ci_reporter,https://github.com/ci-reporter/ci_reporter,[3],1,7,351
+collectiveidea-acts_as_geocodable,https://github.com/collectiveidea/acts_as_geocodable,"[1, 2, 3, 4, 6, 7, 8]",7,7,199
+collectiveidea-audited,https://github.com/collectiveidea/audited,"[3, 4, 6]",3,73,725
+collectiveidea-awesome_nested_set,https://github.com/collectiveidea/awesome_nested_set,[],0,31,553
+collectiveidea-graticule,https://github.com/collectiveidea/graticule,"[1, 2, 3, 6, 7]",5,5,241
+cristibalan-braid,https://github.com/cristibalan/braid,"[1, 3, 5, 6, 7]",5,35,566
+defunkt-facebox,https://github.com/defunkt/facebox,[1],1,8,90
+defunkt-github-gem,https://github.com/defunkt/github-gem,"[1, 3, 5, 6]",4,4,420
+delynn-userstamp,https://github.com/delynn/userstamp,[],0,2,37
+ebassi-json-glib,https://github.com/ebassi/json-glib,"[3, 4, 5, 6, 7]",5,8,1003
+gregwebs-jquery-uitablefilter,https://github.com/gregwebs/jquery-uitablefilter,"[1, 3, 5, 6]",4,5,34
+haml-haml,https://github.com/haml/haml,"[1, 3, 6]",3,55,5294
+IoLanguage-io,https://github.com/IoLanguage/io,[],0,37,2632
+JackDanger-permanent_records,https://github.com/JackDanger/permanent_records,"[1, 3, 5, 6, 7]",5,2,249
+jashkenas-ruby-processing,https://github.com/jashkenas/ruby-processing,[],0,229,1233
+jeremy-rails,https://github.com/jeremy/rails,"[1, 3, 5, 6, 7]",5,40,73661
+jmettraux-ruote,https://github.com/joseph/castanaut,[],0,2,2408
+joseph-castanaut,https://github.com/jmettraux/ruote,[],0,1,76
+josh-rails,https://github.com/josh/rails,"[1, 3, 4, 5, 7]",5,17,49242
+lsegal-yard,https://github.com/lsegal/yard,[],0,95,3724
+markbates-cachetastic,https://github.com/markbates/cachetastic,[],0,3,73
+markbates-configatron,https://github.com/markbates/configatron,"[3, 5, 6]",3,25,311
+mattfoster-gnuplot-tmbundle,https://github.com/mattfoster/gnuplot-tmbundle,"[3, 5, 6]",3,13,86
+minimagick-minimagick,https://github.com/minimagick/minimagick,"[1, 2, 3]",3,72,712
+mloughran-api_cache,https://github.com/mloughran/api_cache,"[1, 3, 5, 6, 7]",5,8,97
+mojombo-chronic,https://github.com/mojombo/chronic,[1],1,23,630
+phloe-amoeba,https://github.com/phloe/amoeba,[],0,35,117
+Pistos-ramaze,https://github.com/Pistos/ramaze,"[1, 2, 3, 5, 6]",5,5,3275
+programming-nu-nu,https://github.com/programming-nu/nu,"[1, 3, 5]",3,8,839
+rails-rails,https://github.com/rails/rails,"[1, 3, 5, 6, 7]",5,41,74782
+rsl-stringex,https://github.com/rsl/stringex,[],0,2,637
+rtomayko-date-performance,https://github.com/rtomayko/date-performance,"[1, 2, 3, 5, 6]",5,4,36
+ruby-git-ruby-git,https://github.com/ruby-git/ruby-git,"[1, 3, 5, 6]",4,27,381
+scivi-dotfiles,https://github.com/scivi/dotfiles,"[1, 3, 5, 7]",4,1,66
+seven1m-onebody,https://github.com/seven1m/onebody,"[1, 5]",2,151,5198
+sferik-twitter,https://github.com/sferik/twitter,"[1, 3, 5, 6]",4,283,2618
+sprinkle-tool-sprinkle,https://github.com/sprinkle-tool/sprinkle,[3],1,6,709
+thoughtbot-paperclip,https://github.com/thoughtbot/paperclip,"[3, 6, 7]",3,200,1970
+topfunky-gruff,https://github.com/topfunky/gruff,"[1, 3, 6, 7]",4,15,309
+toretore-barby,https://github.com/toretore/barby,"[1, 2, 3]",3,6,319
+tra-spawnling,https://github.com/tra/spawnling,"[1, 3, 5]",3,13,260
+trevorturk-eldorado,https://github.com/trevorturk/eldorado,"[1, 3, 5, 6]",4,2,973

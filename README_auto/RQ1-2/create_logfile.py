@@ -45,12 +45,11 @@ for row in infile:
             if last_file_id not in rmlist:
                 outfile.writerow(['',last_file_id,last_pname,'','-'])
                 nc += 1
+                print(last_file_id)
         flag = False
     
     pn = linecache.getline('project_name.csv', file_id)
     pname = pn.strip("\n")
-
-    
 
     try:
         F_IN = open("repos/" + pname + "/README.md",'r',encoding='utf_8')
@@ -74,7 +73,6 @@ for row in infile:
                     last_file_id = file_id
                     last_pname = row[2]
                 continue
-        
 
     try:
         for line in F_IN:
@@ -87,13 +85,15 @@ for row in infile:
                 #print(y)
                 #print(head)
             elif ("==="in line or "---" in line):
-                x = last_line.strip("\n")
+                x = str(last_line).strip("\n")
                 y = x.strip(' ')
                 head.append(y)
             last_line = line
 
         x = row[3].strip("#")
         y = x.strip(' ')
+
+        #print(row)
 
         if y in head:
             #print(aaa)

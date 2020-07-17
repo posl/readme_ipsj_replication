@@ -25,7 +25,6 @@ flag = False
 
 top = ["section-id","file-id","url","heading","Codes with >= 2 votes"]
 outfile.writerow(top)
-
 last_pname = []
 
 rmlist = []
@@ -35,23 +34,26 @@ for line in open("project_name.csv"):
 
     try:
         F_IN = open("repos/" + pname + "/README.md",'r',encoding='utf_8')
-        if pname == 'fig':
-            print('USA')
 
     except:
         
         try:
             F_IN = open("repos/" + pname + "/README.md",'r', encoding='shift_jis')
+            print("2 " + F_IN)
             
 
         except:
             try:
-                F_IN = open("repos/" + pname + "/README.md",'r', encoding='cp932')
-                
+                F_IN = open("repos/" + pname + "/README.md", 'r', encoding='cp932')
+                print("3 " + F_IN)
             except:
+                '''
                 if file_id not in rmlist:
                     rmlist.append(file_id)
+                '''
+                print(pname + " error")
                 continue
+    
 
     try:
         for line2 in F_IN:
@@ -65,6 +67,7 @@ for line in open("project_name.csv"):
                 head.append(x)
             
             last_line = line2
+
         
         for row in infile:
             if pname in row[2]:
