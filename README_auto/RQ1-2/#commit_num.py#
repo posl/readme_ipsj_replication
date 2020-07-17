@@ -1,9 +1,0 @@
-import csv
-import os
-
-import codecs
-
-for line in open("project_name.csv"): #’¥Õ’¥¡’¥¤’¥ë’Ì¾’¤Î’ÆÉ’¤ß’¹þ’¤ß
-    name = line.strip("\n") #name=file’Ì¾
-    try:
-        Readme = codecs.open
