@@ -6,7 +6,6 @@ import string
 
 I = linecache.getline('mode.csv',1)
 i = I.strip("\n")
-print(i)
 i = int(i)
 
 if(i == 0):
@@ -61,7 +60,7 @@ e_num = 0
 place = 0
 
 head = []
-ln = 0
+
 f = open("project_name.csv")
 for line in open("project_name.csv"):
     num += 1
@@ -149,7 +148,6 @@ for line in infile2:
     
     if num == control_list[place][1]:
         #書き込み処理
-
         f = linecache.getline('project_name.csv', now_id)
         fname = f.strip("\n")
         list.append(fname)
@@ -159,19 +157,11 @@ for line in infile2:
         head.sort()
         list.append(head)
 
-        ln = len(head)
-        list.append(ln)
-
         commit = linecache.getline('data.csv', now_id)
         c = commit.strip("\n")
         list.append(c)
 
-        commit_all = linecache.getline('data_all.csv', now_id)
-        ca = commit_all.strip("\n")
-        list.append(ca)
         #print(list)
-        if now_id == 127:
-            print(list) 
 
         outfile.writerow(list)
 

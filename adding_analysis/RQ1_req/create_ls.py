@@ -6,7 +6,6 @@ import string
 
 I = linecache.getline('mode.csv',1)
 i = I.strip("\n")
-print(i)
 i = int(i)
 
 if(i == 0):
@@ -23,29 +22,19 @@ if(i == 0):
 
 #csv_file3 = open('data.csv','r',encoding='utf-8', errors="", newline="")
 
-else:
+elif(i == 1):
+    #csv_file1 = open('dataset_combined_cp.csv','r',encoding='utf-8', errors="", newline="")
     csv_file1 = open('dataset_combined_cp.csv','r',encoding='utf-8', errors="", newline="")
     infile = csv.reader(csv_file1,delimiter=",", doublequote=True, lineterminator="\r\n", quotechar='"', skipinitialspace=True)
+    #csv_file3 = open('dataset_combined_cp.csv','r',encoding='utf-8', errors="", newline="")
     csv_file3 = open('dataset_combined_cp.csv','r',encoding='utf-8', errors="", newline="")
     infile2 = csv.reader(csv_file3,delimiter=",", doublequote=True, lineterminator="\r\n", quotechar='"', skipinitialspace=True)
-    
-    if i == 1:
-        csv_file2 = open('first_list.csv','w')
-        outfile = csv.writer(csv_file2)
-    elif i == 2:
-        csv_file2 = open('second_list.csv','w')
-        outfile = csv.writer(csv_file2)
-    elif i == 3:
-        csv_file2 = open('third_list.csv','w')
-        outfile = csv.writer(csv_file2)
-    elif i == 4:
-        csv_file2 = open('fourth_list.csv','w')
-        outfile = csv.writer(csv_file2)
-
+    csv_file2 = open('first_list.csv','w')
+    outfile = csv.writer(csv_file2)
 
 header = next(infile)
 header = next(infile2)
-title = ['project name','project url','category','commits']
+title = ['project name','project url','category','commits','commits_all']
 outfile.writerow(title)
 
 #reject number which is file_id that is unable to read README.md
@@ -61,7 +50,7 @@ e_num = 0
 place = 0
 
 head = []
-ln = 0
+
 f = open("project_name.csv")
 for line in open("project_name.csv"):
     num += 1
@@ -119,15 +108,19 @@ list = []
 
 for line in infile2:
     if line[2] in rm_list:
+        print(line[2])
         continue
     
     if line[-1] != "-":
+        print("line[-1] =" + line[-1])
         number = int(line[-1])
         while number != 0:
             add =  number % 10
             if add not in head:
                 head.append(add)
             number = int((number-add)/10)
+        
+    
 
     #print('aaa')
     now_id = int(line[1])
@@ -149,7 +142,6 @@ for line in infile2:
     
     if num == control_list[place][1]:
         #書き込み処理
-
         f = linecache.getline('project_name.csv', now_id)
         fname = f.strip("\n")
         list.append(fname)
@@ -158,20 +150,13 @@ for line in infile2:
 
         head.sort()
         list.append(head)
-
-        ln = len(head)
-        list.append(ln)
+        print(list)
 
         commit = linecache.getline('data.csv', now_id)
         c = commit.strip("\n")
         list.append(c)
 
-        commit_all = linecache.getline('data_all.csv', now_id)
-        ca = commit_all.strip("\n")
-        list.append(ca)
         #print(list)
-        if now_id == 127:
-            print(list) 
 
         outfile.writerow(list)
 

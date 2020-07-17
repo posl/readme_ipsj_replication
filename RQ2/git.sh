@@ -13,7 +13,7 @@ do
     # READMEのコミットを五分割
     if [ $num -eq 1 ];then
         number=1
-        tag=`git log --oneline -- README.md | tail -n 1 | cut -d ' ' -f 1`
+        tag=`git log --oneline -- README.md | tail -n 1 | cut -d ' ' -f 1 `
     else 
         number=`git log --oneline -- README.md | wc -l`
         number=$(($number* ($num-1)/4))
@@ -23,7 +23,6 @@ do
     # READMEの初期状態のタグの取り出し
     #tag=`git log --oneline -- README.md | tail -n 1 | cut -d ' ' -f 1`
     # numberのコミットのタグの取り出し
-
     # echo $tag
     # echo 'c'
     # README.mdをtagのバージョンに

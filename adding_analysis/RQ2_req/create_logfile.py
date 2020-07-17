@@ -24,6 +24,8 @@ i = 0
 j = 0
 k = 0
 
+nc = 0
+
 last_file_id = 1
 flag = False
 
@@ -42,7 +44,8 @@ for row in infile:
         if flag != True:
             if last_file_id not in rmlist:
                 outfile.writerow(['',last_file_id,last_pname,'','-'])
-            
+                nc += nc
+                
         flag = False
     
     pn = linecache.getline('project_name.csv', file_id)
