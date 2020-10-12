@@ -1,0 +1,394 @@
+name,language,commits,files,loc
+sethm/symon,Java,258,87,28154
+lastromanticx/oo-inheritance-code-along-wdf-000,Ruby,22,5,91
+microlv/prerender,JavaScript,375,14,622
+565407548/vlayout,Java,81,48,10023
+shrah/corert,C#,6117,2887,477868
+LoMicah03/hello-world-ruby-ruby-intro-000,Ruby,68,2,7
+gevans/chef-xdebug,Ruby,11,6,760
+h3biomed/lastpass-cli,C,67,51,5379
+anirut/TuentiTV,Java,177,53,2382
+sineed/rails,Ruby,59149,2538,219461
+ggailey777/app-service-mobile-xamarin-android-quickstart-old,not found
+samuelbohler/apache2-chef-cookbook,Ruby,892,287,5608
+venturion/vue-resource,JavaScript,397,39,4469
+vocotnhan/quickdic-dictionary.actionbarsherlock,Java,2,166,26792
+praveenjk/node,not found
+SharedVue/bootstrap,not found
+hyndex/animate.css,not found
+kraziegent/go-bootstrap,Go,79,30,1361
+owap/map-journal-storytelling-template-js,JavaScript,121,527,55006
+Paseam/tensorlayer,Python,335,57,7009
+tinco/ruru,Rust,416,40,1580
+abparker/developer-exercise,not found
+voxik/fog,Ruby,12170,2101,68457
+brendanwb/factory_girl_rails,Ruby,153,20,602
+sebald/grunt-dss,CSS,40,12,691
+aborunski/android-fragment-swapper,Java,1,20,1066
+anyexxx/iCreator,JavaScript,18,1,203
+cwohlman/delta,JavaScript,165,10,1303
+xiky/Masonry,not found
+adamswann/WPD-.NET-Wrapper,C#,16,20,844
+edsonmgoz/restaurante,PHP,10,1576,205014
+scollison/huginn,Ruby,2030,480,47045
+g3collector/spring-best-practices,Java,37,53,5204
+dondre/angular-cli,TypeScript,1003,319,16858
+BrunoBozza/CNTK,C++,4438,496,122394
+pombredanne/cassle,Python,44,32,1697
+blairanderson/amazon-autocomplete,JavaScript,11,3,209
+villanella/hikari-for-Jekyll,CSS,108,12,1000
+RLC22/butter-desktop,JavaScript,5587,120,22346
+kevinboudot/silex-cache-service-provider,PHP,57,24,932
+IvyGongoogle/SeetaFaceLib,C++,31,103,10628
+mcansh/simple-partials-reading-v-000,Ruby,52,46,337
+kentmacdonald2/slack-history-export,JavaScript,69,5,466
+Scott-O-Brian/docker-node,Shell,371,22,629
+nilaydc/Exploratory-Data-Analysis,R,9,4,53
+brismuth/fms-endpoint,PHP,118,491,68413
+squareteam/yodatra,Ruby,71,21,780
+elsdrium/neural_artistic_style,Python,16,3,261
+Unicamp-OpenPower/alice,Python,89,10,640
+lulupop/sweep,JavaScript,30,5,1250
+solomance/sandstorm,not found
+blair34854/AndroidN-ify,Java,1056,153,22328
+BluesBaka/apples-and-holidays-v-000,Ruby,111,3,141
+umbobabo/component-typography,CSS,171,9,840
+Croydon/restart-my-fox,JavaScript,75,5,366
+HPxpat/rdpy,Python,286,52,7856
+xwipeoutx/EnumGenie,C#,25,42,922
+kuyun-zhangyang/caffe,C++,3039,306,58914
+ufirstgroup/jquery-handsontable,JavaScript,3045,245,93059
+grandamp/locust-swarm,Python,5,2,21
+wieweb/CountingView,Swift,7,5,174
+yujmh/symphony,not found
+mhm956/gala,Python,49,10,421
+agomezf/ProgrammingAssignment2,R,8,1,24
+k0mrade/buntdb-optimization,Go,12,1,173
+UniversityProjects/FEM1,Matlab,48,56,1541
+bestwpw/bigchaindb,not found
+rramona2/JavaScript-Templates,JavaScript,74,10,9294
+JWood02/javascript-logging-lab-bootcamp-prep-000,JavaScript,13,1,38
+trentmwillis/ember.js,JavaScript,14244,795,79550
+Songmu/p5-DBIx-FixtureLoader,Perl,64,2,206
+CraigLiaoBJ/ADClusterMapView,Objective-C,47,20,987
+Leelow/sinopia,JavaScript,649,73,21609
+ganeshraju/bigtop,Java,1617,592,24485
+wenjingjie/XXPagingScrollView,Swift,13,26,2085
+jmilleralpine/ParallelGit,Java,557,241,15201
+17352913480/1002,HTML,4,0,0
+AzureByte/csharp_tutorials,C#,74,23,529
+mmcgahan/io-slider,JavaScript,6,8,1030
+darg0001/J2EEScan,Java,74,106,7077
+gaborbernat/buildship,Java,924,239,14621
+peppy6582/serviceLogs,JavaScript,4,121,5165
+petrjanda/ICDM2015,Python,4,5,842
+harrywithcode/elasticsearch-definitive-guide,HTML,2152,7,378
+taf2/Recorderjs,JavaScript,69,5,715
+pombredanne/pyqver,not found
+alanwgeorge/Android-CleanArchitecture,Java,211,84,3055
+trujunzhang/ruby2-rails4-bootstrap-heroku,Ruby,547,47,307
+MrItty/GeoIP2-perl,Perl,361,38,1596
+nmjesus/sharedb,JavaScript,676,36,6956
+Robbe92/liferay-connector,JavaScript,125,16,6259
+a3986/px-data-table,HTML,596,12,1866
+Capri2014/tiny-dnn,C++,922,341,123226
+carriercomm/rampant,Shell,3,2,90
+medos1472/BMCustomTableView,Swift,15,21,509
+ZahoreczTibor/handson-ml,Jupyter Notebook,114,21,8223
+yu5y/geonotebook,Python,616,91,12558
+ammarx/ARP-spoofing,Python,10,1,15
+RodrigoCm95/ionic-native,TypeScript,1322,164,9440
+tkylin/shadowsocks-windows,C#,1032,82,12766
+lrmodesgh/iio-oscilloscope,C,1820,74,54037
+voDox17/Viberr,HTML,2,21,531
+ChadLactaoen/Blackjack,JavaScript,23,36,3495
+imkernel/cockroach,not found
+jrudel/SoccerApp,not found
+oscarsale/oscarsale.github.io,CSS,338,5,381
+emil10001/QuickGraphAndroid,Java,3,2,51
+choreographing-quokka/Q,JavaScript,249,20,15686
+kwangkim/jekyll-bootstrap,Ruby,195,9,1123
+zawieja/java8collections,Java,19,1,44
+Jaiimmortal/LCS,Python,18,2,78
+Crysty-Yui/android-async-http,Java,777,75,6775
+paige11/cartoon-collections-001-prework-web,Ruby,73,3,86
+iL-Mattone/konstantin-fluentd,Ruby,46,19,387
+neumanta/frontend-nanodegree-feedreader,JavaScript,6,10,3288
+kunickiaj/docker-vault,not found
+randhika/LOST,Java,166,27,2079
+dhaval2025/RoaringBitmap,Java,484,51,13421
+dluxemburg/node-google-spreadsheets,JavaScript,12,3,285
+soeaver/NormFace,not found
+mroth/extwitter,Elixir,162,31,1234
+arodrime/homebrew,Ruby,29607,2964,88924
+tylabs/quicksand_lite,C,32,12,4087
+EmanueleMinotto/installer,PHP,35,6,661
+manekinekko/gaia,JavaScript,42081,4828,756309
+Koulio/jison,JavaScript,625,66,20626
+DimGreyWolf/448Hmwk5,Python,54,225,31486
+pivotal-mikegresham/github-changelog-generator,Ruby,1402,26,2424
+vpothuri/phpiredis,C,144,34,1632
+valley51/jfortune,JavaScript,49,11,419
+maxamillion32/mobile-first-dashboard,JavaScript,29,7,814
+Cedriking/microjs.com,not found
+shyamalschandra/synfig,C++,8168,1607,301752
+nigredo-tori/patty,Nimrod,53,4,541
+QuickQi1/ews-cpp,C++,408,35,19923
+mdxprograms/visor,HTML,1,6,367
+h0rn3t/instagram-scraper,not found
+NunoEdgarGub1/jBloomberg,Java,105,71,5197
+1406504841/glide,Java,1411,439,37513
+IbpTeam/sqlite3,C,1,704,227947
+Shamash2014/swirl_courses,R,752,338,4966
+luoyiqi/Colorful-1,Java,51,13,638
+MariyaS/movies,Python,9,3,97
+haisonle/passwordless,JavaScript,131,39,4031
+JoseEnrique04/r-graph-catalog,HTML,49,141,4403
+MaxAdamyan/NightNight,Swift,158,55,1517
+iamxufeng/SlidingTutorial-Android,Java,86,39,2263
+ArmiT/yii2-eav,not found
+serenabi/workflow-plugin,not found
+duguruiyuan/date-time-picker,JavaScript,35,27,1936
+sd6352051/NiftyNotification,Java,38,19,1016
+itlackey/assemble-workshop,JavaScript,144,59,1599
+EarLyMe/ruby-object-initialize-lab-v-000,Ruby,12,451,36621
+sandriichenko/tcp-qa,Python,152,38,2581
+nithiroj/Mining-the-Social-Web-2nd-Edition,HTML,331,135,4057
+DavidRGriswold/jquery-colourpicker,not found
+mucyomiller/xact,Python,15,2,69
+josnthecaster/RepData_PeerAssessment1,HTML,15,1,89
+HanWenfang/libgdx-demo-cuboc,Java,27,26,1657
+bfrosik/scikit-beam,Python,1420,144,8627
+murongruomeng/hacker-scripts,PHP,45,20,630
+jwolfe890/skills-based-javascript-intro-to-flow-control-v-000,JavaScript,46,3,105
+hughker/Apollo-11,Assembly,89,0,0
+Kryndex/microservices-examples,JavaScript,31,49,4884
+silverfern7/ExData_Plotting1,R,16,4,44
+YangHaha11514/advanced-tensorflow,Jupyter Notebook,73,30,4812
+spkane/Device42-AutoDiscovery-Scripts,Python,49,8,1491
+AlluringJay/ripgrep,Rust,494,51,12169
+dragon788/vimsert,JavaScript,21,8,21514
+ozalpdemir/angular2-busy,TypeScript,47,73,7801
+midumitrescu/tokens,Java,192,59,2195
+AMorporkian/StarryPy3k,Python,294,42,4177
+aceol/generator-gulp-angular,JavaScript,897,163,6583
+aaronseib/smart-on-fhir.github.io,CSS,404,18,20569
+gkarunakaran/kidsrubyinstaller-windows,Ruby,80,12,530
+WaylandGod/cecil,C#,726,236,33927
+houze2311/MMNumberKeyboard,Objective-C,33,8,736
+funze/cleanflight,C,2182,444,110834
+johnsonjr/vagrant-aws,Ruby,351,33,1548
+memorywarning/YouCompleteMe,Python,1763,54,6896
+bissal/reveal.js,JavaScript,1797,57,11358
+fp7-netide/Engine,Java,990,406,32492
+raphapassini/calendarjs,JavaScript,7,11,8139
+zhongdaojin/node-tesseract,JavaScript,63,5,125
+majestrate/go-multiaddr,Go,56,7,679
+ttyouare/angular-strap,JavaScript,1009,166,49216
+LookOut800/wdi_11_angular_token_auth_app,ApacheConf,7,19,658
+rollbear/Catch,not found
+crisamdegracia/js-basics-online-shopping-lab-js-intro-000,JavaScript,52,3,163
+jakeheis/objc-TimesSquare,Objective-C,51,19,876
+tfereyre/sonar-examples,Java,766,63,1259
+magadan/eleVR-Picture-Player,not found
+e0003083/website,HTML,823,9,1081
+merlincharlotte/search-github-users,JavaScript,2,20,590
+ovicko/yii2-shop,not found
+mgechev/nshahpazov.github.io,CSS,9,38,5677
+sdtm1016/debugger.html,JavaScript,749,267,33237
+pat/drumknott,Ruby,31,15,401
+jpbetz/prezto,Shell,1747,42,1905
+hsugita/imas-producer_schedule,Ruby,20,9,239
+divampo/PHPStaticHelpers,PHP,2,6,732
+manuelgu/discord-api-docs,JavaScript,122,1,1
+cloudfoundry/cf-mysql-release,Go,2407,1063,571189
+D630/bds,Shell,15,3,629
+babyformula/shadowsocks,Python,1,40,3773
+imlucas/node-forro,JavaScript,46,2,431
+boumer/neocities,HTML,1763,669,24641
+att-bdpaas/webhdfs,Ruby,82,11,686
+aforward-oss/chef-redis,Ruby,46,19,439
+Apentz49/django-movies-api,Python,5,13,182
+schmittjoh/jmsPaymentPlugin,PHP,48,79,2477
+jmorcos22/odoo,Python,99673,2593,418725
+henvic/pb,Go,167,20,959
+fredericletellier/udacity-xyzreader,Java,24,15,1152
+socialchorus/homebrew,Ruby,189,24,627
+cambiata/android-midi-lib,Java,7,38,2788
+connorworkman/LightWM,C++,32,8,1041
+fabianfh/QuantLib,C++,13378,2602,383700
+thekonz/piximgen,PHP,26,1,102
+gaopeng9090/IntentKit,Objective-C,259,80,3475
+kuyoska/embedio,C#,395,94,19892
+sandu81/botframework,C#,32,30,2011
+bran921007/react,JavaScript,4690,498,77756
+rune-opera/web-platform-tests,not found
+cliffparnitzky/TinyMceContextMenu,PHP,24,4,10
+Peplo/duckling,Clojure,568,183,22990
+niceguy-php/redis-windows,Shell,36,2,61
+larssonandreas/gemstash,not found
+asmboom/Lizitt-Unity3D-Outfitter,C#,89,53,4164
+igorT/khan-exercises,JavaScript,936,114,8156
+omedbb/volume-leather-fill,Objective-C,1,38,1657
+bikong2/rrc_detection,C++,50,486,83177
+bkachamakov/FreeCodeCamp,HTML,4869,414,110494
+abhilashkkumar/testapp_rails,Ruby,10,60,451
+ryam244/cdnjs-1,JavaScript,3050,10938,2940386
+melodysu83/AutoCircle_generater,C++,68,13,2103
+caomm/angularjs-springmvc-sample,Java,111,48,2192
+manuelbrand/WeatherPage,HTML,1,18,222
+zhly0/LightGBM,C++,336,84,13535
+RubenPHP/cookieconsent,JavaScript,441,13,1664
+peteryunkim/javascript-intro-to-functions-lab-web-031317,JavaScript,26,2,61
+lindes/vrptools,C,68,8,926
+adrian907/neuraltalk2,Lua,36,23,1905
+MHarrison72/ircdd,Python,260,52,3268
+harvard-crimson/django-select2,Python,228,55,5616
+m4rm0k/matter-js,JavaScript,253,41,25857
+uliano/GaCD-Assignment,not found
+SCDesigns/web-auth-readme-v-000,Ruby,17,32,214
+MasazI/dropzone,JavaScript,755,16,8043
+petems/puppet-splunk,Puppet,260,57,1341
+savethefails/gcloud-node,JavaScript,1451,130,35382
+tmandal/CarND-Transfer-Learning-Lab,Python,37,5,197
+ld000/decent,JavaScript,70,36,6283
+ahmadassaf/dynamic-json-resume,JavaScript,63,15,1557
+envs/javascript,JavaScript,1402,18,983
+FleetCarma/embedC-Challenge,C,9,3,27
+fewd-sg/fewd-3-homework-week-2,CSS,157,24,11389
+CASunday2003/jquery,JavaScript,6167,198,43252
+ibarrick/web-animations-js,JavaScript,1456,85,16958
+abricot/foxmote,JavaScript,107,58,4767
+HugoTamaki/flisol-api,JavaScript,2,3,76
+ccbabi/demo-redux-todo,not found
+vanloswang/cpprestsdk,C++,1490,514,85380
+Fu2k/Seccubus_v2,JavaScript,976,826,122547
+EgoistTheBest/monodroid-samples,C#,1287,1623,123684
+Chen0831/rallets-android,Scala,1714,90,6719
+rivieragug/groovy-core,Java,10289,1263,140586
+Parisson/loaders,JavaScript,122,14,2015
+Lodin/broccoli-pug-plugin,JavaScript,4,6,124
+jimlester/thoughtworks-email-signature-generator,JavaScript,141,46,68568
+kleopatra999/ca-bundle,PHP,23,2,198
+abhinav1592/PruneCluster,JavaScript,180,12,52241
+barchetta/hackathon-2016-12,JavaScript,10,12,168
+rivabe/aci-fabric-deploy,Python,1,3,163
+GitBoat/openshift3mlbparks,Java,34,5,6210
+mnacos/coffee-react-quickstart,CoffeeScript,112,21,757
+kcufId/pupy,Python,940,508,80651
+59naga/object-parser,JavaScript,14,3,71
+jbakic/Shielded,C#,441,57,8094
+ctinnell/swift-java-bridge,Objective-C++,42,11,335
+ashusa303/aw-reporting,Java,1855,257,39131
+avigad/Spectral,Lean,481,54,11861
+ThomasGrivaz/Learning-Analytics-Project,Jupyter Notebook,47,11,835
+jlangston/mosh-chrome,C++,243,43,4883
+gskachkov/phantomjs,C++,1718,20251,3636798
+cbogithub/pixelpusher,Python,9,6,622
+thesaadarshad/setup-ipsec-vpn,Shell,312,6,957
+detoxin/ricochet,C++,840,118,22610
+zouzias/docker-elk,Shell,65,3,14
+BhanuPatnana/tutorials,XSLT,4907,3366,305369
+cpunion/react-web,JavaScript,317,225,24984
+alanqian/feedback,JavaScript,28,6,3263
+brianrainey/.dotfiles,Emacs Lisp,79,4,32
+d-vf/plotly,R,1305,86,6591
+johntron/es2015-bootstrap,JavaScript,3,3,42
+carueda/stoqs,Jupyter Notebook,4404,883,278127
+sebcrozet/nrays,Rust,82,17,2371
+letup/CoreAR,C,149,102,9803
+wthit56/node.unnecessary.js,JavaScript,4,4,334
+victorkamenov/scsh,not found
+romerun/XChange,Java,595,349,15536
+bazmecode/Pass4Win,C#,143,24,2822
+jinchunguang/yii2-app-learning,not found
+hughperkins/clBLAS,C,249,677,198402
+ruoshui/srs,C++,3381,244,73592
+crann/angular-ckeditor-directive,HTML,8,213,3155
+troska/homebrew-cask,Ruby,42737,3262,47355
+BuckleTypes/bs-webapi-incubator,Reason,422,153,3841
+christopherwoo/data-science-ipython-notebooks,Python,483,89,8252
+lionfish7699/guides,Ruby,320,22,515
+yaogdu/python-fire,Python,13,34,2286
+ocean90/wp-cli,not found
+monw3c/swiped,JavaScript,27,5,320
+Dauthiwarlord/UniversalMediaServer,Java,5844,330,61061
+juame/puppet-firewalld,Ruby,23,10,356
+tetsuo6666/MSCollectionViewCalendarLayout,Objective-C,99,186,16471
+renoguyon/angular-duration-format,JavaScript,27,7,435
+slavame/mitro,HTML,65,2550,420903
+Chiel92/chugins,C++,280,150,24691
+tourze/onepage_scroll,JavaScript,61,10,1216
+subclub/oauth2,Ruby,434,26,1317
+dev1234/BeeFramework,Objective-C,282,1180,134461
+cyz0430/resume,not found
+fitmoo/drupal_store_ftm,PHP,5,3303,365724
+travisjeffery/pat,Go,63,5,437
+zephyrm/d3,JavaScript,4079,5,88
+KyleOndy/docs,not found
+shilobanerjee/AFiNeS,C++,333,21,5555
+bambella4316/javascript-arithmetic-lab-bootcamp-prep-000,JavaScript,13,3,84
+leobcn/takeown,Go,35,6,1421
+itsky365/vegeta,Go,417,21,1843
+theschubinator/javascript-objects-lab-js-intro-000,not found
+monkeymoney/fullPage.js,not found
+dxas90/ionic-cli,JavaScript,1240,98,10621
+XiliangSong/api,Go,28,5,269
+ccloes/aws-codedeploy-agent,Ruby,70,66,8467
+jacknjzhou/raet,Python,694,58,39369
+npouvesle/echo,Go,320,36,2783
+z4321548/reading,not found
+shayhowe/modular-html-css-js-workshop,CSS,55,11,1328
+TLINDEN/novel-mode,Emacs Lisp,6,1,221
+rossgritz/ipython-notebooks,Jupyter Notebook,108,41,6788
+tdeborge/angular-phonecat,JavaScript,228,31,675
+AlexandraRezk02/first-lab-ruby-learn-cli-ile-intro-to-learn,Ruby,21,2,11
+jaredkirkley/formBuilder,JavaScript,441,117,10395
+panshuiqing/ocanvas,JavaScript,373,45,40975
+hobmgcode/you-get,Python,1113,105,7215
+openube/ML-From-Scratch,Python,69,21,1328
+paarthenon/DefinitelyTyped,TypeScript,22103,4803,1200007
+mraimi/insight2,Python,45,3,228
+appirits/awesome_admin_layout,Ruby,94,30,1096
+johabu/simple_rsa,C,8,2,157
+juhniorsantos/laravel-authentication-acl,not found
+DuncanAForbes/quantlib,C++,18711,4296,617018
+ishitach/gtg,Gettext Catalog,5130,235,23869
+eyolfson/research-2016-ecoop-artifact,Shell,47,9,199
+Mengman/jhipster-demo,not found
+guoyu07/G-Library,PHP,45,28,11467
+gouldingm/swd-recorder,C#,84,306,40371
+cushon/retrolambda,Java,410,73,4550
+trZone/NPKC_17_Teensy3.2,Arduino,6,0,0
+SerkanSipahi/jspm-cli,JavaScript,1160,39,5708
+TNAJanssen/DoctrineEncryptBundle,PHP,107,20,910
+MehranMazhar/angular,not found
+KeithLee208/hyperapp,JavaScript,131,7,245
+isoscl/seadroid,Java,1739,189,28158
+shohag121/wp-github-updater,PHP,30,2,294
+mbrannigan/salt-state-test,not found
+AlexandreHonorato/wildfly,Java,19164,7456,492632
+c-jheengut/kdev-kernel,C++,52,8,751
+uhlume/neveragaindottech.github.io,HTML,4711,4,476
+ghamry/jquery.hotkeys,JavaScript,129,11,10265
+plirof/pluck,PHP,563,905,47843
+alg/carrierwave-base64-storage,Ruby,10,4,81
+IL2liu/msu_ngs2015,HTML,35,2,137
+Exia101/dev1-mini-project,CSS,294,47,7465
+joshswan/gulp-merge-json,JavaScript,93,4,425
+javillegas/unity3d-store,C#,595,55,4812
+jbenden/pcbsd,C++,8141,2021,539487
+ColeSchaefer/NanoCore-Base-Plugin,not found
+erizhang/fake_inject,C,20,6,119
+homingli/fig,Python,791,52,3517
+illuminate3/LogViewer,PHP,238,78,3889
+willotheblessed/Dragonet,Java,274,713,39001
+ONSdigital/ras-common,Python,313,29,1173
+fanhattan/kafka-rb,not found
+LordWiley/node-taas-client,JavaScript,29,6,1190
+itomato/brew,Ruby,9912,344,33317
+martinheidegger/nodegit,JavaScript,2627,2774,1055961
+the-vk/yamp-js,JavaScript,6,1,394
+Nitwoe/SGJ2015,not found
+Olive4Oyl/js-jquery-stop-propogation-lab-wdf-000,JavaScript,13,4,757
+bdurand/whenever,Ruby,438,34,2278
